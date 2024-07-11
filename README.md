@@ -1,2 +1,2 @@
 # scripts
-Useful scripts that I tend to accumulate
+Useful scripts that I tend to accumulate.  I'm finding that the use of Generative AI has rendered a code or scripted solution the easiest, in a lot of cases. As a semi-serious photo/video nerd, I find myself doing script-driven things with file formats, organization and metadata more often than I would prefer. Combine that with my tendency to distro-hop and make radical changes in my toolchain from time to time, and it becomes apparent why this is all kinda useful.
